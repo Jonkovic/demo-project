@@ -1,2 +1,4 @@
-# demo-project
-My first GitHub repository to learn how repositories work
+# Demo Project
+### With @Jonkovic
+
+This repo is to practice the GitHub Flow in many ways!
